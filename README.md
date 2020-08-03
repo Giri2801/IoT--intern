@@ -1,5 +1,5 @@
 # IoT--intern
-This github repository contains the details about the IoT project that was done by Shivaram Prasad and Girinath. We did this intern under Shakti-team IIT-Madras.
+This github repository contains the details about the IoT project that was done by Shivaram Prasad and Girinath. We did this intern in RISE Lab IIT-Madras.
 
 Details of Files
 1. Presentation.pptx - Our initial idea about the task
